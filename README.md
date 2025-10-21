@@ -1,6 +1,5 @@
 This is excellent! Since your project is a Generative AI Resume Optimizer using IBM Granite LLM and a Gradio UI, the content should be structured as a Technical Project Report or 
 White Paper to fully document the complexity of the solution.
-
 Here is a comprehensive, structured content outline you can use, with suggestions for what to write in each section.
 Project Content: Generative AI Resume Optimizer
 1. Executive Summary
@@ -77,4 +76,3 @@ Project Content: Generative AI Resume Optimizer
           IBM Granite LLM Documentation
           Gradio Documentation
           Any research papers or articles on ATS/Resume Parsing/NLP you referenced.
-
